@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef0ff"/>
+      <stop offset="1" stop-color="#f6f6f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#g)"/>
+  <rect x="66" y="70" width="1068" height="620" rx="38" fill="#fff" stroke="#dfe2ec" stroke-width="2"/>
+  <rect x="118" y="120" width="240" height="520" rx="26" fill="#161815"/>
+  <circle cx="170" cy="176" r="18" fill="#7f95ff"/>
+  <rect x="205" y="161" width="105" height="13" rx="6.5" fill="#fff" opacity=".82"/>
+  <rect x="145" y="232" width="186" height="42" rx="13" fill="#fff" opacity=".11"/>
+  <rect x="145" y="292" width="186" height="42" rx="13" fill="#fff" opacity=".07"/>
+  <rect x="145" y="352" width="186" height="42" rx="13" fill="#fff" opacity=".07"/>
+  <rect x="145" y="412" width="186" height="42" rx="13" fill="#fff" opacity=".07"/>
+  <rect x="405" y="134" width="666" height="86" rx="22" fill="#f3f4f0"/>
+  <rect x="439" y="160" width="220" height="17" rx="8.5" fill="#151713" opacity=".14"/>
+  <rect x="439" y="187" width="130" height="12" rx="6" fill="#151713" opacity=".08"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="405" y="260" width="186" height="150" rx="24" fill="#eef0ff" stroke="#d8ddff"/>
+    <text x="498" y="323" text-anchor="middle" font-size="17" font-weight="700" fill="#536df3">ORDER INTAKE</text>
+    <text x="498" y="352" text-anchor="middle" font-size="14" fill="#777b73">Power Apps</text>
+    <rect x="645" y="260" width="186" height="150" rx="24" fill="#f3f4f0" stroke="#e4e6df"/>
+    <text x="738" y="323" text-anchor="middle" font-size="17" font-weight="700" fill="#151713">AUTOMATION</text>
+    <text x="738" y="352" text-anchor="middle" font-size="14" fill="#777b73">Power Automate</text>
+    <rect x="885" y="260" width="186" height="150" rx="24" fill="#eef0ff" stroke="#d8ddff"/>
+    <text x="978" y="323" text-anchor="middle" font-size="17" font-weight="700" fill="#536df3">RECORDS</text>
+    <text x="978" y="352" text-anchor="middle" font-size="14" fill="#777b73">SharePoint Lists</text>
+    <path d="M592 335h40" stroke="#536df3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M832 335h40" stroke="#536df3" stroke-width="4" stroke-linecap="round"/>
+    <rect x="405" y="462" width="666" height="142" rx="24" fill="#151713"/>
+    <text x="439" y="510" font-size="15" font-weight="700" fill="#91a5ff">PRIVATE BUSINESS PROJECT</text>
+    <text x="439" y="548" font-size="28" font-weight="700" fill="#fff">Privacy-safe system overview</text>
+    <text x="439" y="580" font-size="15" fill="#b8bcb3">Screenshots withheld to protect operational information.</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f4f0"/>
+      <stop offset="1" stop-color="#e4e7f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="676" rx="34" fill="#fff" stroke="#dcded8" stroke-width="2"/>
+  <circle cx="1050" cy="125" r="56" fill="#da7655" opacity=".12"/>
+  <circle cx="108" cy="650" r="80" fill="#da7655" opacity=".10"/>
+  <rect x="100" y="114" width="1000" height="455" rx="24" fill="#da7655" opacity=".08"/>
+  <rect x="145" y="158" width="430" height="34" rx="17" fill="#da7655" opacity=".28"/>
+  <rect x="145" y="216" width="725" height="18" rx="9" fill="#141613" opacity=".11"/>
+  <rect x="145" y="254" width="610" height="18" rx="9" fill="#141613" opacity=".08"/>
+  <rect x="145" y="326" width="280" height="170" rx="24" fill="#da7655" opacity=".18"/>
+  <rect x="458" y="326" width="280" height="170" rx="24" fill="#141613" opacity=".07"/>
+  <rect x="771" y="326" width="280" height="170" rx="24" fill="#da7655" opacity=".12"/>
+  <text x="100" y="625" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#151713">Casa Carmina</text>
+  <text x="100" y="670" font-family="Arial,sans-serif" font-size="24" fill="#73776f">WordPress E-commerce · Detail screen</text>
+  <text x="1100" y="671" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#da7655">PROJECT IMAGE 3</text>
+</svg>
